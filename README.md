@@ -10,7 +10,7 @@ Don't forget `unzip` it. `init.sh` uses `pg_restore`, and `pg_restore` requires 
 
 ```
 $ cd ./postgresql-tutorial-sample-database-docker
-$ curl -O https://sp.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+$ curl -O https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 $ unzip dvdrental.zip
 ```
 
